@@ -1,3 +1,6 @@
+//This code will display conversion from feet to meters for 10 feet
+//Then it will show converstion from 20 to 65 meters to feet by 5's.
+
 public class exercise_6_9 {
     public static void main(String[] args) {
         //Display table
