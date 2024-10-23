@@ -13,9 +13,9 @@ public class exercise_6_9 {
         {
             System.out.printf("%4.1f    ", feet);
             System.out.printf("%6.3f    ", footToMeter(feet));
-			System.out.printf("     |     ");
-			System.out.printf("%-11.1f", meters);
-			System.out.printf("%7.3f\n", meterToFoot(meters));
+	    System.out.printf("     |     ");
+	    System.out.printf("%-11.1f", meters);
+            System.out.printf("%7.3f\n", meterToFoot(meters));
         }
     }
 
